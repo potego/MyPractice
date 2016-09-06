@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.example.admin.myapplication.Main2Activity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="4500dp"
+        android:src="@drawable/shokky4"/>
+    
+    <TextView
+        android:text="For your birthday I don't wish you much really... But from this day on I wish you life, I wish you joy, I wish you love and a lot of your heart's desires.\ln
+
+I really pray that you get the best life you can wish for. I love you so much and you have been the best little sister that anyone can wish for.\ln
+
+You are beautiful, you are smart, you are really really intelligent. You annoy me a lot sometimes but you difficult to stay mad at."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#B3ffffff"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="91dp" />
+
+</RelativeLayout>
